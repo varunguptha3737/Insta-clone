@@ -1,1 +1,1 @@
-# Netflixclone
+# Instagram Clone
